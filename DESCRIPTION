@@ -2,10 +2,8 @@ Package: TransectToolsAK
 Title: Tools for Processing Distance Sampling Transects
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "Dylan",
-	family = "Schertz",
-	role = c("aut", "cre"),
-	email = "Dylan_Schertz@nps.gov)
+    person("Dylan", "Schertz", , "Dylan_Schertz@nps.gov", role = c("aut", "cre"),
+           comment = c(""))
 Description: These tools are created to process distance sampling data collected from low level aerial surveys.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
